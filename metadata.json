@@ -1,0 +1,8 @@
+{
+  "name": "Pest Control Dhaka",
+  "description": "Professional pest control services in Dhaka for homes, apartments, restaurants, offices and commercial properties across Gulshan, Banani, Dhanmondi, and Dhaka city.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
